@@ -1,0 +1,17 @@
+# Python
+venv/
+backend/venv/
+__pycache__/
+*.pyc
+
+# Node / React
+node_modules/
+build/
+frontend/build/
+
+# Environment variables
+.env
+
+# OS files
+.DS_Store
+Thumbs.dbbackend/.git/objects/pack/pack-4c1c0423f329a4ba82a44e810ef8fbb82b8ca1ca.pack
